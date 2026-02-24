@@ -49,7 +49,7 @@ def main():
     ])
 
     # ─── Dataset ────────────────────────────────────────────────────────
-    data_dir = "/Users/shashwanthsivakumar/Desktop/Projects/Adeos/Edocr/edocr2/swiftformer_dataset_fcf7"
+    data_dir = "_dataset_"
     train_dir = os.path.join(data_dir, "train")
     val_dir = os.path.join(data_dir, "val")
 
