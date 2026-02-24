@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Edocr/edocr2/recog_samples_single_gdt3"
+		}
+	],
+	"settings": {}
+}
