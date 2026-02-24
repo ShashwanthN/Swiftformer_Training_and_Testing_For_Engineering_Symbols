@@ -37,7 +37,7 @@ The dataset generator requires GD&T fonts to be placed in the `Fonts/` directory
 
 ---
 
-## 🧬 Dataset Generation
+## Dataset Generation
 
 Produce a PyTorch-compatible `ImageFolder` dataset for 14 different GD&T symbols.
 
